@@ -1,0 +1,24 @@
+
+.konten-cetak-surat  {
+    
+}
+.konten-cetak-surat h2 {
+    padding-left: 120px;
+    
+}
+label {
+    margin: 5px 120px;
+    display: block;
+}
+input {
+    margin: 5px 120px;
+    padding: 20px 100px;
+}
+
+.btn-cetak {
+    padding: 20px 50px;
+    margin-right: 800px;
+    text-align: center;
+    color:#889eab;
+    background-color: #dee7ec;
+}

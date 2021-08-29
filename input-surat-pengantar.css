@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    background-image: url("");
+    
+    
+
+
+}
+.konten-input-surat{
+    
+}
+.konten-input-surat h2 {
+    padding-left: 120px;
+
+
+}
+
+label {
+    margin: 5px 120px;
+    display: block;
+}
+input {
+    margin: 5px 120px;
+    padding: 20px 200px;
+
+}
+.input-left {
+    display: block;
+    float: left;
+
+    
+    
+}
+
+.input-right {
+    display: block;
+    float: right;
+    
+}
+
+.btn-lanjutkan {
+    padding: 20px 50px;
+    margin-left: 800px;
+    margin-right: 800px;
+    text-align: center;
+    color:#889eab;
+    background-color: #dee7ec;
+}
